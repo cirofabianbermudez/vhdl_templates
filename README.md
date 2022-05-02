@@ -1,15 +1,15 @@
-# Estancia Claudio Garcia
-
-
+# Curso FPGA 2022
 
 
 
 ## Actividades 1ra semana
 
-1. Active hdl student edition
+1. Active HDL student edition
 2. Ver videos de Digital design FPGA
    * https://www.youtube.com/watch?v=eJHmVlzH_9Q&list=PL7kkolCtIBKLukrBsEDwKRTE64JvaJDhM
 3. Instalar Vivado 2020.2
+   1. Buscar datasheet de FPGA Basys 3
+
 4. Circuitos combinaciones e implementación en FPGA
    1. LUT Look Up Table
    2. Multiplexores
@@ -20,7 +20,7 @@
    7. Comparadores
    8. ROM
 
-5. Aritmetica de punto fijo 1
+5. Aritmética de punto fijo 1
 6. Bibliografía
 
 ### Tarea 1
